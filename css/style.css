@@ -1,7 +1,11 @@
 body {
-    background-image: linear-gradient(rgba(187, 36, 81, 0.8), rgba(0, 0, 0, 0.7)), url("../img/bg.png");
+    background-image: linear-gradient(rgba(187, 36, 81, 0.8), rgba(7, 7, 7, 0.7)), url("../img/bg.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     color: #fff !important;
+}
+
+header{
+    background-color: rgba(7, 7, 7, 0.7);
 }
